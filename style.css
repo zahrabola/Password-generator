@@ -144,6 +144,9 @@ input[type="range"]::-webkit-slider-thumb {
   width: 0; 
   } 
   */
+  .text-purple{
+    color: white
+  }
   .strength{
     padding: 20px;
     justify-content: space-between;
